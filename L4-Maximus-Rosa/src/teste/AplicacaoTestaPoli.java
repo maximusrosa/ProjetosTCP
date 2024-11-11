@@ -1,5 +1,4 @@
 package teste;
-
 import poligono.*;
 
 public class AplicacaoTestaPoli {
